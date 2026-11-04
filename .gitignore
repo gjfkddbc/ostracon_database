@@ -1,0 +1,7 @@
+# 실행하면 생기는 파일
+absence.db
+results.new.txt
+__pycache__/
+
+# 입력 PDF는 저작권 때문에 올리지 않는다(README 참조)
+data/

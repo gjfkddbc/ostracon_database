@@ -1,0 +1,2773 @@
+{
+"rows": [
+{
+"worker": "Penduauu",
+"side": "front",
+"season": "Spring",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "DRINKING WITH KHONSU",
+"reason": "DRINKING WITH KHONSU"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 13,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 14,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 15,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 16,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 17,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 23,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hornefer",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 10,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 23,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 16,
+"uncertain": false,
+"raw": "HIS DAUGHTER WAS BLEEDING",
+"reason": "HIS DAUGHTER WAS BLEEDING"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "OFFERING TO THE GOD",
+"reason": "OFFERING TO THE GOD"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 15,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "OFFERING TO THE GOD"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 24,
+"uncertain": false,
+"raw": "LIBATING TO HIS FATHER",
+"reason": "LIBATING TO HIS FATHER"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "LIBATING TO HIS FATHER"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 26,
+"uncertain": true,
+"raw": "DITTO",
+"reason": "LIBATING TO HIS FATHER"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 28,
+"uncertain": true,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Sawadjyt",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 14,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 17,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 18,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 4,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 4,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 5,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 6,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Horemwia",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 15,
+"uncertain": false,
+"raw": "WITH HIS BOSS DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 16,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 17,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 18,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 4,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 8,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 25,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Amennakht",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 26,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Wadjmose",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 23,
+"uncertain": false,
+"raw": "HIS DAUGHTER WAS BLEEDING",
+"reason": "HIS DAUGHTER WAS BLEEDING"
+},
+{
+"worker": "Wadjmose",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 6,
+"uncertain": false,
+"raw": "BUILDING HIS HOUSE",
+"reason": "BUILDING HIS HOUSE"
+},
+{
+"worker": "Hehnekhu",
+"side": "front",
+"season": "Summer",
+"month": 1,
+"day": 16,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hehnekhu",
+"side": "front",
+"season": "Summer",
+"month": 1,
+"day": 17,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Hehnekhu",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "WRAPPING (THE CORPSE OF) HIS MOTHER",
+"reason": "WRAPPING (THE CORPSE OF) HIS MOTHER"
+},
+{
+"worker": "Hehnekhu",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WRAPPING (THE CORPSE OF) HIS MOTHER"
+},
+{
+"worker": "Nakhy",
+"side": "front",
+"season": "Spring",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhy",
+"side": "front",
+"season": "Spring",
+"month": 1,
+"day": 15,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtmin",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "LIBATING",
+"reason": "LIBATING"
+},
+{
+"worker": "Nakhtmin",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "FETCHING STONE FOR THE SCRIBE",
+"reason": "FETCHING STONE FOR THE SCRIBE"
+},
+{
+"worker": "Nakhtmin",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 27,
+"uncertain": false,
+"raw": "HIS WIFE WAS BLEEDING",
+"reason": "HIS WIFE WAS BLEEDING"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "WITH AAPEHTI",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 23,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "FETCHING STONE FOR THE SCRIBE",
+"reason": "FETCHING STONE FOR THE SCRIBE"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "FETCHING STONE FOR THE SCRIBE",
+"reason": "FETCHING STONE FOR THE SCRIBE"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 23,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 24,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 28,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 24,
+"uncertain": false,
+"raw": "HIS MOTHER WAS ILL",
+"reason": "HIS MOTHER WAS ILL"
+},
+{
+"worker": "Pennub",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 25,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "HIS MOTHER WAS ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 23,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 15,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 16,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "OFFERING TO THE GOD",
+"reason": "OFFERING TO THE GOD"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 17,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 18,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Aapehti",
+"side": "front",
+"season": "Summer",
+"month": 1,
+"day": 27,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 23,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 17,
+"uncertain": false,
+"raw": "BURYING THE GOD",
+"reason": "BURYING THE GOD"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 18,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Khaemtir",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Amenmose",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Anuy",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 24,
+"uncertain": false,
+"raw": "FETCHING STONE FOR THE SCRIBE",
+"reason": "FETCHING STONE FOR THE SCRIBE"
+},
+{
+"worker": "Anuy",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 28,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Wennefer",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "OFFERING TO THE GOD",
+"reason": "OFFERING TO THE GOD"
+},
+{
+"worker": "Wennefer",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 4,
+"uncertain": false,
+"raw": "OFFERING TO HIS GOD",
+"reason": "OFFERING TO HIS GOD"
+},
+{
+"worker": "Buqentuf",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 17,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Buqentuf",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 18,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Buqentuf",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 6,
+"uncertain": false,
+"raw": "WRAPPING (THE CORPSE OF) HIS MOTHER",
+"reason": "WRAPPING (THE CORPSE OF) HIS MOTHER"
+},
+{
+"worker": "Buqentuf",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WRAPPING (THE CORPSE OF) HIS MOTHER"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 17,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 18,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 17,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 27,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 28,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 3,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Manninakhtef Huy",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Huy",
+"side": "front",
+"season": "Winter",
+"month": 4,
+"day": 24,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Huy",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 25,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Huy",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 26,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 23,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 24,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "(이름 파손)",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "WITH AAPEHTI",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 23,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 3,
+"day": 24,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 15,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 16,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 4,
+"day": 17,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH AAPEHTI"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Winter",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "OFFERING TO THE GOD",
+"reason": "OFFERING TO THE GOD"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Winter",
+"month": 2,
+"day": 13,
+"uncertain": true,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 25,
+"uncertain": false,
+"raw": "WITH KHONS MAKING REMEDIES",
+"reason": "WITH KHONS MAKING REMEDIES"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 26,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH KHONS MAKING REMEDIES"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Winter",
+"month": 3,
+"day": 27,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH KHONS MAKING REMEDIES"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "MAKING REMEDIES FOR THE SCRIBE’S WIFE",
+"reason": "MAKING REMEDIES FOR THE SCRIBE’S WIFE"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 1,
+"day": 26,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "MAKING REMEDIES FOR THE SCRIBE’S WIFE"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 1,
+"day": 27,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "MAKING REMEDIES FOR THE SCRIBE’S WIFE"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 2,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "MAKING REMEDIES FOR THE SCRIBE’S WIFE"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 3,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "MAKING REMEDIES FOR THE SCRIBE’S WIFE"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 4,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 5,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 6,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "MAKING REMEDIES FOR THE SCRIBE’S WIFE"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 3,
+"uncertain": false,
+"raw": "WITH KHONS MAKING REMEDIES",
+"reason": "WITH KHONS MAKING REMEDIES"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 17,
+"uncertain": false,
+"raw": "WITH HOREMWIA",
+"reason": "WITH HOREMWIA"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 18,
+"uncertain": false,
+"raw": "WITH HOREMWIA",
+"reason": "WITH HOREMWIA"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WITH HOREMWIA"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 4,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 5,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 6,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 24,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 25,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Summer",
+"month": 4,
+"day": 26,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 1,
+"day": 15,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Paherypedjet",
+"side": "front",
+"season": "Spring",
+"month": 1,
+"day": 16,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Huynefer",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Huynefer",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Huynefer",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 3,
+"uncertain": false,
+"raw": "SUFFERING WITH HIS EYE",
+"reason": "SUFFERING WITH HIS EYE"
+},
+{
+"worker": "Huynefer",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 5,
+"uncertain": false,
+"raw": "SUFFERING WITH HIS EYE",
+"reason": "SUFFERING WITH HIS EYE"
+},
+{
+"worker": "Huynefer",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Huynefer",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 15,
+"uncertain": false,
+"raw": "EMBALMING HORMOSE",
+"reason": "EMBALMING HORMOSE"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "OFF ABSENT",
+"reason": "OFF ABSENT"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 16,
+"uncertain": false,
+"raw": "STRENGTHENING THE DOOR",
+"reason": "STRENGTHENING THE DOOR"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 23,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 24,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Amenemwia",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 6,
+"uncertain": false,
+"raw": "WRAPPING (THE CORPSE OF) HIS MOTHER",
+"reason": "WRAPPING (THE CORPSE OF) HIS MOTHER"
+},
+{
+"worker": "Inhurkhawy",
+"side": "back",
+"season": "Spring",
+"month": 4,
+"day": 17,
+"uncertain": false,
+"raw": "HIS WIFE WAS BLEEDING",
+"reason": "HIS WIFE WAS BLEEDING"
+},
+{
+"worker": "Neferabu",
+"side": "back",
+"season": "Spring",
+"month": 4,
+"day": 15,
+"uncertain": false,
+"raw": "HIS DAUGHTER WAS BLEEDING",
+"reason": "HIS DAUGHTER WAS BLEEDING"
+},
+{
+"worker": "Neferabu",
+"side": "back",
+"season": "Spring",
+"month": 4,
+"day": 17,
+"uncertain": false,
+"raw": "BURYING THE GOD",
+"reason": "BURYING THE GOD"
+},
+{
+"worker": "Neferabu",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "EMBALMING HIS BROTHER",
+"reason": "EMBALMING HIS BROTHER"
+},
+{
+"worker": "Neferabu",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "LIBATING FOR HIM",
+"reason": "LIBATING FOR HIM"
+},
+{
+"worker": "Neferabu",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 26,
+"uncertain": false,
+"raw": "HIS WIFE WAS BLEEDING",
+"reason": "HIS WIFE WAS BLEEDING"
+},
+{
+"worker": "Paser",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "LIBATING FOR HIS SON",
+"reason": "LIBATING FOR HIS SON"
+},
+{
+"worker": "Paser",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 27,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Paser",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 14,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Paser",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 15,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Pakhuru",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 4,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Pakhuru",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 5,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Pakhuru",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 6,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Pakhuru",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Pakhuru",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Spring",
+"month": 4,
+"day": 17,
+"uncertain": false,
+"raw": "THE SCORPION BIT HIM",
+"reason": "THE SCORPION BIT HIM"
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Winter",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "HIS WIFE WAS BLEEDING",
+"reason": "HIS WIFE WAS BLEEDING"
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 26,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 27,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 2,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 3,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 4,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 5,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 6,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Seba",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "ILL: erased",
+"reason": "ILL: erased"
+},
+{
+"worker": "Neferemsenut",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Simut",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 18,
+"uncertain": false,
+"raw": "OFF ABSENT",
+"reason": "OFF ABSENT"
+},
+{
+"worker": "Simut",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "HIS WIFE WAS … AND BLEEDING",
+"reason": "HIS WIFE WAS … AND BLEEDING"
+},
+{
+"worker": "Simut",
+"side": "back",
+"season": "Winter",
+"month": 4,
+"day": 23,
+"uncertain": false,
+"raw": "HIS WIFE WAS BLEEDING",
+"reason": "HIS WIFE WAS BLEEDING"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Spring",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 25,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 26,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 27,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 28,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Winter",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "WITH HIS GOD",
+"reason": "WITH HIS GOD"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 26,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Spring",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "HIS FEAST",
+"reason": "HIS FEAST"
+},
+{
+"worker": "Khons",
+"side": "back",
+"season": "Spring",
+"month": 1,
+"day": 15,
+"uncertain": false,
+"raw": "HIS FEAST",
+"reason": "HIS FEAST"
+},
+{
+"worker": "Inuy",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 24,
+"uncertain": false,
+"raw": "FETCHING STONE FOR QENHERKHEPSHEF",
+"reason": "FETCHING STONE FOR QENHERKHEPSHEF"
+},
+{
+"worker": "Inuy",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "FETCHING STONE FOR QENHERKHEPSHEF"
+},
+{
+"worker": "Inuy",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 17,
+"uncertain": false,
+"raw": "OFF ABSENT WITH THE SCRIBE",
+"reason": "OFF ABSENT WITH THE SCRIBE"
+},
+{
+"worker": "Inuy",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 24,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 2,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 3,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 4,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 5,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 6,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Sunero",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 22,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 4,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 5,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 6,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 24,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 25,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Nebenmaat",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 26,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Merwaset",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 17,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Merwaset",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 5,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Merwaset",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Merwaset",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 8,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Merwaset",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 17,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Merwaset",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 18,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Ramose",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 14,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Ramose",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 15,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Ramose",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 2,
+"uncertain": false,
+"raw": "MOURNING HIS SON",
+"reason": "MOURNING HIS SON"
+},
+{
+"worker": "Ramose",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 3,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Bakenmut",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": "FETCHING STONE FOR THE SCRIBE",
+"reason": "FETCHING STONE FOR THE SCRIBE"
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": "OFFERING TO THE GOD",
+"reason": "OFFERING TO THE GOD"
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Winter",
+"month": 4,
+"day": 25,
+"uncertain": false,
+"raw": "HIS DAUGHTER WAS BLEEDING",
+"reason": "HIS DAUGHTER WAS BLEEDING"
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 5,
+"uncertain": false,
+"raw": "WRAPPING (THE CORPSE OF) HIS SON",
+"reason": "WRAPPING (THE CORPSE OF) HIS SON"
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 6,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 7,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Summer",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "DITTO",
+"reason": "WRAPPING (THE CORPSE OF) HIS SON"
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 7,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Rahotep",
+"side": "back",
+"season": "Summer",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 8,
+"uncertain": false,
+"raw": "OFF ABSENT",
+"reason": "OFF ABSENT"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 17,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 23,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 27,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 28,
+"uncertain": false,
+"raw": "OFF ABSENT",
+"reason": "OFF ABSENT"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Winter",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Iierniutef",
+"side": "back",
+"season": "Spring",
+"month": 1,
+"day": 14,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 18,
+"uncertain": false,
+"raw": "BREWING BEER",
+"reason": "BREWING BEER"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 13,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 14,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 15,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 16,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 17,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 18,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 2,
+"day": 24,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 25,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 26,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 27,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 3,
+"day": 28,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Winter",
+"month": 4,
+"day": 8,
+"uncertain": false,
+"raw": "WITH THE SCRIBE",
+"reason": "WITH THE SCRIBE"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 16,
+"uncertain": false,
+"raw": "SUFFERING WITH HIS EYE",
+"reason": "SUFFERING WITH HIS EYE"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 17,
+"uncertain": false,
+"raw": "SUFFERING WITH HIS EYE",
+"reason": "SUFFERING WITH HIS EYE"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 25,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 26,
+"uncertain": false,
+"raw": null,
+"reason": null
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Summer",
+"month": 1,
+"day": 27,
+"uncertain": false,
+"raw": "ILL",
+"reason": "ILL"
+},
+{
+"worker": "Nakhtamun",
+"side": "back",
+"season": "Summer",
+"month": 3,
+"day": 21,
+"uncertain": false,
+"raw": "WITH HIS BOSS",
+"reason": "WITH HIS BOSS"
+}
+],
+"names": [
+"Penduauu",
+"Hornefer",
+"Sawadjyt",
+"Horemwia",
+"Amennakht",
+"Wadjmose",
+"Nebamentet",
+"Hehnekhu",
+"Nakhy",
+"Nakhtmin",
+"Pennub",
+"Aapehti",
+"Khaemtir",
+"Amenmose",
+"Anuy",
+"Wennefer",
+"Buqentuf",
+"Manninakhtef Huy",
+"Huy",
+"(이름 파손)",
+"Paherypedjet",
+"Huynefer",
+"Amenemwia",
+"Inhurkhawy",
+"Neferabu",
+"Paser",
+"Pakhuru",
+"Seba",
+"Neferemsenut",
+"Simut",
+"Khons",
+"Inuy",
+"Sunero",
+"Nebenmaat",
+"Merwaset",
+"Ramose",
+"Bakenmut",
+"Rahotep",
+"Iierniutef",
+"Nakhtamun"
+],
+"log": [
+[
+"Hornefer",
+"날짜 없는 사유",
+"WITH HIS BOSS"
+],
+[
+"Horemwia",
+"날짜 판독 불가",
+"day …"
+],
+[
+"Horemwia",
+"날짜 없는 사유",
+"WITH HIS BOSS"
+],
+[
+"Nakhtamun",
+"날짜 판독 불가",
+"day …"
+],
+[
+"Nakhtamun",
+"날짜 없는 사유",
+"WITH HIS BOSS"
+]
+]
+}

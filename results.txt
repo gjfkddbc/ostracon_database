@@ -1,0 +1,41 @@
+duplicates rejected []
+total [(270, 39, 76)]
+per worker [('Paherypedjet', 39), ('Nakhtamun', 20), ('Aapehti', 12), ('Horemwia', 12), ('Seba', 12), ('Pennub', 11), ('Amennakht', 10), ('Nebenmaat', 10), ('Sawadjyt', 10), ('(이름 파손)', 9), ('Khons', 9), ('Manninakhtef Huy', 8), ('Rahotep', 8), ('Sunero', 8), ('Amenemwia', 7), ('Hornefer', 7), ('Iierniutef', 7), ('Khaemtir', 7), ('Huynefer', 6), ('Merwaset', 6), ('Neferabu', 5), ('Pakhuru', 5), ('Buqentuf', 4), ('Hehnekhu', 4), ('Inuy', 4), ('Paser', 4), ('Ramose', 4), ('Huy', 3), ('Nakhtmin', 3), ('Simut', 3), ('Anuy', 2), ('Nakhy', 2), ('Wadjmose', 2), ('Wennefer', 2), ('Amenmose', 1), ('Bakenmut', 1), ('Inhurkhawy', 1), ('Neferemsenut', 1), ('Penduauu', 1), ('Nebamentet', 0)]
+category [('own_illness', 72), ('with_boss', 49), ('(none)', 42), ('brewing', 17), ('funeral_memorial', 16), ('colleague_related', 16), ('religion_festival_drinking', 13), ('family_bleeding_illness', 12), ('remedies', 10), ('scribe_related', 9), ('fetching_stone', 7), ('unspecified', 4), ('private', 2), ('own_illness_erased', 1)]
+ILL exact [(67,)]
+uncertain [(3,)]
+blank after own illness [(11,)]
+blank by prev [(None, 21), ('ILL', 11), ('WITH HIS BOSS', 3), ('WRAPPING (THE CORPSE OF) HIS SON', 1), ('WITH THE SCRIBE', 1), ('WITH HOREMWIA', 1), ('OFFERING TO THE GOD', 1), ('OFF ABSENT WITH THE SCRIBE', 1), ('MAKING REMEDIES FOR THE SCRIBE’S WIFE', 1), ('HIS WIFE WAS BLEEDING', 1)]
+order violations [('Horemwia', 'Summer', 2, 4)]
+span [(20, 315)]
+first/last [('Spring', 3, 21)] [('Spring', 1, 16)]
+cross WITH X [('Paherypedjet', 'WITH AAPEHTI', 'Spring', 3, 21, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 3, 22, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 3, 23, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 3, 24, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 4, 7, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 4, 8, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 4, 15, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 4, 16, 1, 'ILL'), ('Paherypedjet', 'WITH AAPEHTI', 'Spring', 4, 17, 0, None), ('Paherypedjet', 'WITH KHONS MAKING REMEDIES', 'Winter', 3, 25, 1, 'ILL'), ('Paherypedjet', 'WITH KHONS MAKING REMEDIES', 'Winter', 3, 26, 1, 'ILL'), ('Paherypedjet', 'WITH KHONS MAKING REMEDIES', 'Winter', 3, 27, 1, None), ('Paherypedjet', 'WITH KHONS MAKING REMEDIES', 'Summer', 3, 3, 0, None), ('Paherypedjet', 'WITH HOREMWIA', 'Summer', 3, 17, 1, 'ILL'), ('Paherypedjet', 'WITH HOREMWIA', 'Summer', 3, 18, 1, 'ILL'), ('Paherypedjet', 'WITH HOREMWIA', 'Summer', 3, 21, 1, 'ILL'), ('Pennub', 'WITH AAPEHTI', 'Spring', 3, 21, 1, 'ILL'), ('Pennub', 'WITH AAPEHTI', 'Spring', 3, 22, 1, 'ILL'), ('Pennub', 'WITH AAPEHTI', 'Spring', 3, 23, 1, 'ILL'), ('Pennub', 'WITH AAPEHTI', 'Spring', 3, 24, 1, 'ILL')]
+busiest [('Winter', 2, 8, 9), ('Summer', 2, 8, 7), ('Spring', 3, 21, 6), ('Spring', 3, 22, 6), ('Spring', 3, 23, 6), ('Spring', 3, 24, 6), ('Spring', 4, 17, 6), ('Winter', 1, 18, 6)]
+pairs same day [(469,)]
+brewing dates [('Winter', 1, 17, 1), ('Winter', 1, 18, 4), ('Winter', 2, 8, 5), ('Winter', 2, 17, 2), ('Winter', 3, 18, 1), ('Winter', 3, 28, 2), ('Summer', 1, 27, 1), ('Summer', 2, 8, 1)]
+Penduauu-Khons [('Spring', 1, 14, 'Penduauu', 'DRINKING WITH KHONSU', 'Khons', 'HIS FEAST'), ('Summer', 2, 7, 'Hehnekhu', 'WRAPPING (THE CORPSE OF) HIS MOTHER', 'Neferabu', 'EMBALMING HIS BROTHER'), ('Summer', 2, 8, 'Hehnekhu', 'WRAPPING (THE CORPSE OF) HIS MOTHER', 'Neferabu', 'LIBATING FOR HIM')]
+conflict [('British Museum translation', 'WITH KHONS MAKING REMEDIES'), ('Janssen 1980', 'making medicine'), ('British Museum translation', 'HIS DAUGHTER WAS BLEEDING'), ('Hamburg CSMC', 'daughter in menstruation (lit. purification)'), ('The History of Egypt Podcast', 'daughter sick'), ('Janssen 1980', 'his daughter was purified')]
+crossref [(21, 19)]
+crossref misses [('Paherypedjet', 'WITH AAPEHTI', 'Spring', 4, 17), ('Paherypedjet', 'WITH KHONS MAKING REMEDIES', 'Summer', 3, 3)]
+cat query [('own_illness', 72), ('with_boss', 49), (None, 42), ('brewing', 17), ('funeral_memorial', 16), ('colleague_related', 16), ('religion_festival_drinking', 13), ('family_bleeding_illness', 12), ('remedies', 10), ('scribe_related', 9), ('fetching_stone', 7), ('unspecified', 4), ('private', 2), ('own_illness_erased', 1)]
+alt order violations I Spring first [(4,)]
+density 0.024107142857142858 0.08881578947368421 reason share 0.8444444444444444
+zero [('Nebamentet',)]
+reject test CHECK constraint failed: season IN('Spring','Winter','Summer')
+crossref same person [(21, 19)]
+crossref separate persons [(20, 18)]
+all categories [('own_illness', 72), ('with_boss', 49), ('(none)', 42), ('brewing', 17), ('funeral_memorial', 16), ('colleague_related', 16), ('religion_festival_drinking', 13), ('family_bleeding_illness', 12), ('remedies', 10), ('scribe_related', 9), ('fetching_stone', 7), ('unspecified', 4), ('private', 2), ('own_illness_erased', 1)]
+start Spring 1 violations 4
+start Spring 2 violations 1
+start Spring 3 violations 1
+start Spring 4 violations 8
+start Winter 1 violations 12
+start Winter 2 violations 23
+start Winter 3 violations 28
+start Winter 4 violations 25
+start Summer 1 violations 24
+start Summer 2 violations 24
+start Summer 3 violations 15
+start Summer 4 violations 11
+Nakhtamun III Summer 21 [('WITH HIS BOSS', 'WITH HIS BOSS')]
+dead rows check [(21,)]
